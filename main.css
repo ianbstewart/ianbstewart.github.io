@@ -10,3 +10,8 @@
 	text-align: left;
 	text-indent: center;
 }
+
+.blocktext {
+	margin-left : 300px;
+	margin-right : 300px;
+}
