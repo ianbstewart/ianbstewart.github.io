@@ -646,7 +646,7 @@ ul.contact li a.icon-rss:before
 #featured-wrapper
 {
 	overflow: hidden;
-	padding: 10em 0em;
+	padding: 5em 0em;
 	background: #FFF;
 	text-align: center;
 }
@@ -947,7 +947,7 @@ ul.contact li a.icon-rss:before
 .extra2 .ebox1,
 .extra2 .ebox2
 {
-	padding: 0em 10em;
+	padding: 0em 20em;
 }
 
 .extra2  .ebox1
