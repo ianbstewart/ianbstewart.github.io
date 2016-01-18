@@ -1,0 +1,12 @@
+# Site settings
+title: Language variation
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl"
+Languages vary over time, and we can track this thanks to the horrifying amount of data being generated every second of every day. Here's where I opine on aspects of sociolinguistics that are interesting and relevant to my work.
+baseurl: "/blog/" 
+url: "http://ianbstewart.github.com" # the base hostname & protocol for your site
+
+github_username:  ianbstewart
+
+# Build settings
+markdown: kramdown

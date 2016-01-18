@@ -1,0 +1,12 @@
+/* Custom stuff for research page*/
+
+.publications {
+
+}
+
+.publications li {
+	margin-left: 120px;
+	margin-right : 120px;
+	text-align: left;
+	text-indent: center;
+}
