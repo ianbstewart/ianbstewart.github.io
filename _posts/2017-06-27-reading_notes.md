@@ -1,0 +1,18 @@
+---
+layout: post
+title: Reading notes
+---
+
+This summer, I've been doing some reading on social science research methods. That topic is obviously very broad, but I wanted to get a better sense of "how to think like a social scientist" rather than "how to think like a sociolinguist." I've been doing sociolinguistics for so long (6 years?!) that I've sort of gotten stuck in a bubble about how to study social phenomena, and the books that I've read so far have done a nice job at providing a birds-eye view of quantitative social science methods that I've been missing. I'm hosting the notes [here](https://github.com/ianbstewart/social_science_methods_readings) if you're interested!
+
+So far I've covered two short books.
+
+## [Designing social inquiry: scientific research in qualitative research](http://metodos-avanzados.sociales.uba.ar/files/2014/06/Gary_King_Robert_O._Keohane_Sidney_Verba.pdf) (King, Keohane, Verba 1994) (notes [here](https://github.com/ianbstewart/social_science_methods_readings/blob/master/King_1994/King_notes.pdf))
+
+Ever wondered what constitutes "social science research"? Me too! Turns out that there's a lot of different kinds of social science with varying levels of quantitative and qualitative components, but all social science researchers should be aware of potential pitfalls and biases that might impact how they study social phenomena. King, Keohane and Verba focus mainly on political science and the use of causal inference as a research method to test relationships between dependent and independent variables. Clearly written and strongly argued, this book showed me that there's no shortcuts to doing interesting research and that even with limited data a researcher can still draw interesting theoretical conclusions, as long as the logic behind the testing is sound. 
+
+## [Bit by bit: social research in the digital age](http://www.bitbybitbook.com/) (Salganik 2017) (notes [here](https://github.com/ianbstewart/social_science_methods_readings/blob/master/Salganik_2017/Salganik_notes.pdf))
+
+The digital era is upon us, and we as researchers should adapt to make the most of the new technology and data available. Drawing on a wealth of studies from the past decade, Salganik lays out methodological suggestions for social scientists and data scientists alike to run effective studies in the digital space. Starting from the basics of what constitutes "big data," Salganik gives examples of different research paradigms such as observational, experimental, and survey studies, as well as the benefits and limitations of each paradigm. I found the section on approximating experiments to be particularly enlightening, as it describes both natural experiments and matching as a way to use observational data to estimate a causal effect in roughly the same way as a typical A/B test. The book also provides a lively discussion of research ethics, which are now more important than ever considering how much personal data is made available online. The digital era has opened up a wealth of opportunities for researchers, including unprecedented levels of mass scientific collaboration, and we should integrate the best of social science theory and data science practice into new studies. 
+
+It's often too easy to find a social media dataset, then run a boatload of statistical tests and machine learning algorithms on the data without carefully building up an experimental framework and enumerating the assumptions being made, which is how real science works. As a sociolinguist, I hope I can carry the lessons from these books into my future research, even if that means I have to flip how I test a hypothesis or run an experiment.
