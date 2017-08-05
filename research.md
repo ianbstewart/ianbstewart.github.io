@@ -41,7 +41,7 @@ Portland, Oregon.
 [[poster]](../docs/ADS_2015_Poster.pdf)
 
 ## 2014
-I. Stewart.
+**I. Stewart.**
 Now we stronger than ever: African American syntax on Twitter.
 14th Conference of the European Chapter of the Association for Computational Linguistics (EACL).
 [[paper]](http://www.aclweb.org/anthology/E/E14/E14-3.pdf#page=41)
