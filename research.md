@@ -6,6 +6,13 @@ permalink: /research/
 # Presentations
 
 ## 2017
+
+I. Stewart, J. Eisenstein. 
+Social and distributional predictors of the success of lexical innovations in online writing.
+New Ways of Analyzing Variation 46 (NWAV 46).
+Madison, WI.
+[[poster]](#)
+
 I. Stewart, D. Arendt, E. Bell, S. Volkova. 
 Measuring, Predicting and Visualizing Short-Term Change in Word Representation and Usage in VKontakte Social Network.
 The 11th International Conference on Web and Social Media (ICWSM).
