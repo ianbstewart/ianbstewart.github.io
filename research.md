@@ -4,6 +4,9 @@ title: Research
 permalink: /research/
 ---
 # Publications
+
+## 2017
+
 **I. Stewart**, J. Eisenstein.
 Making "fetch" happen: the influence of social and linguistic context on the success of lexical innovations. In submission to Transactions of the Association of Computational Linguistics (TACL). 
 [[arXiv]](https://arxiv.org/abs/1709.00345)
