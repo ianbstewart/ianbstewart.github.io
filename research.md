@@ -3,6 +3,11 @@ layout: page
 title: Research
 permalink: /research/
 ---
+# Publications
+**I. Stewart**, J. Eisenstein.
+Making "fetch" happen: the influence of social and linguistic context on the success of lexical innovations. In submission to Transactions of the Association of Computational Linguistics (TACL). 
+[[arXiv]](https://arxiv.org/abs/1709.00345)
+
 # Presentations
 
 ## 2017
@@ -11,6 +16,7 @@ permalink: /research/
 Social and distributional predictors of the success of lexical innovations in online writing.
 New Ways of Analyzing Variation 46 (NWAV 46).
 Madison, WI.
+[[abstract]](../docs/NWAV_2017_short.pdf)
 [[poster]](#)
 
 **I. Stewart**, D. Arendt, E. Bell, S. Volkova. 
