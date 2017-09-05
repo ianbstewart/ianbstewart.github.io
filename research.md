@@ -18,7 +18,7 @@ Making "fetch" happen: the influence of social and linguistic context on the suc
 F. Hohman, S. Soni, **I. Stewart**, J. Stasko. 
 A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue.
 2nd Workshop on Visualization for the Digital Humanities at IEEE VIS.
-Phoenix, USA.
+Phoenix, AZ.
 [[paper]](https://www.cc.gatech.edu/~stasko/papers/vis4dh17-thrones.pdf)
 
 **I. Stewart**, J. Eisenstein. 
