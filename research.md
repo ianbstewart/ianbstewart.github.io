@@ -26,7 +26,7 @@ Social and distributional predictors of the success of lexical innovations in on
 New Ways of Analyzing Variation 46 (NWAV 46).
 Madison, WI.
 [[abstract]](../docs/NWAV_2017_short.pdf)
-[[poster]](#)
+[[poster]](../docs/NWAV_2017_poster.pdf)
 
 **I. Stewart**, D. Arendt, E. Bell, S. Volkova. 
 Measuring, Predicting and Visualizing Short-Term Change in Word Representation and Usage in VKontakte Social Network.
