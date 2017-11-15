@@ -8,7 +8,7 @@ permalink: /research/
 ## 2018
 
 **I. Stewart**, J. Eisenstein.
-Making "fetch" happen: the influence of social and linguistic context on the success of lexical innovations. In submission to Transactions of the Association of Computational Linguistics (TACL). 
+Making "fetch" happen: the influence of social and linguistic context on the success of lexical innovations. In preparation. 
 [[arXiv]](https://arxiv.org/abs/1709.00345)
 
 # Presentations
@@ -17,7 +17,7 @@ Making "fetch" happen: the influence of social and linguistic context on the suc
 
 **I. Stewart**, S. Chancellor, M. De Choudhury, J. Eisenstein. 
 \#anorexia, \#anarexia, \#anarexyia: Characterizing Online Community Practices with Orthographic Variation.
-The 5th International Workshop on Natural Language Processing for Social Media.
+5th International Workshop on Natural Language Processing for Social Media.
 Boston, MA.
 [[paper]](../docs/SocialNLP_2017.pdf)
 [[slides]](#)
