@@ -15,6 +15,13 @@ Making "fetch" happen: the influence of social and linguistic context on the suc
 
 ## 2017
 
+**I. Stewart**, S. Chancellor, M. De Choudhury, J. Eisenstein. 
+\#anorexia, \#anarexia, \#anarexyia: Characterizing Online Community Practices with Orthographic Variation.
+The 5th International Workshop on Natural Language Processing for Social Media.
+Boston, MA.
+[[paper]](../docs/SocialNLP_2017.pdf)
+[[slides]](#)
+
 F. Hohman, S. Soni, **I. Stewart**, J. Stasko. 
 A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue.
 2nd Workshop on Visualization for the Digital Humanities at IEEE VIS.
