@@ -20,13 +20,7 @@ Making "fetch" happen: the influence of social and linguistic context on the suc
 5th International Workshop on Natural Language Processing for Social Media.
 Boston, MA.
 [[paper]](../docs/SocialNLP_2017.pdf)
-[[slides]](#)
-
-F. Hohman, S. Soni, **I. Stewart**, J. Stasko. 
-A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue.
-2nd Workshop on Visualization for the Digital Humanities at IEEE VIS.
-Phoenix, AZ.
-[[paper]](https://www.cc.gatech.edu/~stasko/papers/vis4dh17-thrones.pdf)
+[[slides]](../docs/SocialNLP_2017_slides.pdf)
 
 **I. Stewart**, J. Eisenstein. 
 Social and distributional predictors of the success of lexical innovations in online writing.
@@ -34,6 +28,12 @@ New Ways of Analyzing Variation 46 (NWAV 46).
 Madison, WI.
 [[abstract]](../docs/NWAV_2017_short.pdf)
 [[poster]](../docs/NWAV_2017_poster.pdf)
+
+F. Hohman, S. Soni, **I. Stewart**, J. Stasko. 
+A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue.
+2nd Workshop on Visualization for the Digital Humanities at IEEE VIS.
+Phoenix, AZ.
+[[paper]](https://www.cc.gatech.edu/~stasko/papers/vis4dh17-thrones.pdf)
 
 **I. Stewart**, D. Arendt, E. Bell, S. Volkova. 
 Measuring, Predicting and Visualizing Short-Term Change in Word Representation and Usage in VKontakte Social Network.
