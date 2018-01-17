@@ -1,4 +1,3 @@
-# Replication studies
 As part of a class in [computational social science](https://github.com/jacobeisenstein/gt-css-class), my friend [Yuval](https://www.cc.gatech.edu/~ypinter3/) and I just wrapped up a short replication study relating to politics and language variation. We replicated the main findings of [Shoemark et al. (2017) "Aye or naw,"](http://www.aclweb.org/anthology/E17-1116) with a twist: instead of focusing on variation between Scots and English, we looked at Spanish versus Catalan. You can check out preliminary results [here](https://docs.google.com/presentation/d/1L4wNoTXDCysaQ65QYUJ_Y7Za8rULAdy_xrnjqZbQkek/edit?usp=sharing). 
 
 I won't lie that this project led me through a bunch of mistakes, setbacks and unexpected triumphs. I learned a lot about the importance of replication studies and how to properly execute them. Here's a short list:
