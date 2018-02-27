@@ -8,7 +8,7 @@ permalink: /research/
 ## 2018
 
 **I. Stewart**, J. Eisenstein.
-Making "fetch" happen: the influence of social and linguistic context on the success of lexical innovations. In preparation. 
+Making "fetch" happen: The influence of social and linguistic context on nonstandard word growth and decline. In submission. 
 [[arXiv]](https://arxiv.org/abs/1709.00345)
 
 # Presentations
