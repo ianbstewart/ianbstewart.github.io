@@ -8,12 +8,13 @@ permalink: /research/
 ## 2018
 
 **I. Stewart**, J. Eisenstein.
-Making "fetch" happen: The influence of social and linguistic context on nonstandard word growth and decline. In submission. 
+Making "fetch" happen: The influence of social and linguistic context on nonstandard word growth and decline. In preparation. 
 [[arXiv]](https://arxiv.org/abs/1709.00345)
 
 I. Stewart, Y. Pinter, J. Eisenstein. 
 Sí o no, ¿què penses? Catalonian independence and linguistic identity on social media.
 NAACL 2018 short paper.
+[[arXiv]](https://arxiv.org/abs/1804.05088)
 [[preprint slides]](https://drive.google.com/open?id=1L4wNoTXDCysaQ65QYUJ_Y7Za8rULAdy_xrnjqZbQkek)
 
 ## 2017
