@@ -8,15 +8,18 @@ permalink: /research/
 ## 2018
 
 **I. Stewart**, J. Eisenstein.
-Making "fetch" happen: The influence of social and linguistic context on nonstandard word growth and decline. EMNLP 2018. [[arXiv]](https://arxiv.org/abs/1802.04140)
+Making "fetch" happen: The influence of social and linguistic context on nonstandard word growth and decline. EMNLP 2018. 
+[[arXiv]](https://arxiv.org/abs/1802.04140)
+[[slides]](#)
 
 **I. Stewart**, Y. Pinter, J. Eisenstein. 
 Sí o no, ¿què penses? Catalonian independence and linguistic identity on social media.
 NAACL 2018.
 [[arXiv]](https://arxiv.org/abs/1804.05088)
 [[code]](https://github.com/ianbstewart/catalan)
-[[slides]](https://drive.google.com/open?id=1L4wNoTXDCysaQ65QYUJ_Y7Za8rULAdy_xrnjqZbQkek)
-[[video]](https://vimeo.com/channels/naacl2018/276426716)
+[[slides (NAACL)]](https://drive.google.com/open?id=1L4wNoTXDCysaQ65QYUJ_Y7Za8rULAdy_xrnjqZbQkek)
+[[video (NAACL)]](https://vimeo.com/channels/naacl2018/276426716)
+[[slides (AACL)]](https://docs.google.com/presentation/d/19Bi-LNP8BwZ5l3uFUiJQWpT-Xk9bXoelEmtidgUEEq8/edit?usp=sharing)
 
 ## 2017
 
