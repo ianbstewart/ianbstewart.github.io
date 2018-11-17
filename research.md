@@ -20,14 +20,14 @@ New Methods in Computational Sociolinguistics.
 **I. Stewart**, J. Eisenstein.
 Making "fetch" happen: The influence of social and linguistic context on nonstandard word growth and decline. 
 EMNLP 2018. 
-[[arXiv]](https://arxiv.org/abs/1709.00345)
+[[paper]](http://aclweb.org/anthology/D18-1467)
 [[code]](https://github.com/ianbstewart/nonstandard_word_dissemination)
 [[slides]](https://docs.google.com/presentation/d/1VLJp0uyBPFzHWupanfOjUr7E0j8UYHxqRSzHPqF7xGk)
 
 **I. Stewart**, Y. Pinter, J. Eisenstein. 
 Sí o no, ¿què penses? Catalonian independence and linguistic identity on social media.
 NAACL 2018.
-[[arXiv]](https://arxiv.org/abs/1804.05088)
+[[paper]](http://aclweb.org/anthology/N18-2022)
 [[code]](https://github.com/ianbstewart/catalan)
 [[slides (NAACL)]](https://drive.google.com/open?id=1L4wNoTXDCysaQ65QYUJ_Y7Za8rULAdy_xrnjqZbQkek)
 [[video (NAACL)]](https://vimeo.com/channels/naacl2018/276426716)
