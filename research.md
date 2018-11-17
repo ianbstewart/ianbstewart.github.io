@@ -10,12 +10,12 @@ permalink: /research/
 **I. Stewart**.
 Language and computers...and society!
 Guest lecture for [[LING 3813]](https://www.leliaglass.com/lgandcomputers) (Language and Computers) at Georgia Tech.
-[[slides]](https://docs.google.com/presentation/d/15c5DQRXbEEClq-8D3sYUgQuysIh_cWel64AFZo2EEVs/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/1YwlkAkOUhG-S48MMfaMG2SwrwDMHZKuk5QYTDP75OQ8)
 
 **I. Stewart**. 
 Is it social or linguistic? Examining internal factors in language change.
 New Methods in Computational Sociolinguistics.
-[[slides]](https://docs.google.com/presentation/d/15c5DQRXbEEClq-8D3sYUgQuysIh_cWel64AFZo2EEVs/edit?usp=sharing)
+[[slides]](https://docs.google.com/presentation/d/15c5DQRXbEEClq-8D3sYUgQuysIh_cWel64AFZo2EEVs)
 
 **I. Stewart**, J. Eisenstein.
 Making "fetch" happen: The influence of social and linguistic context on nonstandard word growth and decline. 
