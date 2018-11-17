@@ -3,12 +3,23 @@ layout: page
 title: Research
 permalink: /research/
 ---
-# Publications and Presentations
+# Publications, Presentations, and Invited Talks
 
 ## 2018
 
+**I. Stewart**.
+Language and computers...and society!
+Guest lecture for LING 3813 (Language and Computers) at Georgia Tech.
+[[slides]](https://docs.google.com/presentation/d/15c5DQRXbEEClq-8D3sYUgQuysIh_cWel64AFZo2EEVs/edit?usp=sharing)
+
+**I. Stewart**. 
+Is it social or linguistic? Examining internal factors in language change.
+New Methods in Computational Sociolinguistics.
+[[slides]](https://docs.google.com/presentation/d/15c5DQRXbEEClq-8D3sYUgQuysIh_cWel64AFZo2EEVs/edit?usp=sharing)
+
 **I. Stewart**, J. Eisenstein.
-Making "fetch" happen: The influence of social and linguistic context on nonstandard word growth and decline. EMNLP 2018. 
+Making "fetch" happen: The influence of social and linguistic context on nonstandard word growth and decline. 
+EMNLP 2018. 
 [[arXiv]](https://arxiv.org/abs/1709.00345)
 [[code]](https://github.com/ianbstewart/nonstandard_word_dissemination)
 [[slides]](#)
