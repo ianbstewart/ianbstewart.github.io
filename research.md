@@ -22,7 +22,7 @@ Making "fetch" happen: The influence of social and linguistic context on nonstan
 EMNLP 2018. 
 [[arXiv]](https://arxiv.org/abs/1709.00345)
 [[code]](https://github.com/ianbstewart/nonstandard_word_dissemination)
-[[slides]](#)
+[[slides]](https://docs.google.com/presentation/d/1VLJp0uyBPFzHWupanfOjUr7E0j8UYHxqRSzHPqF7xGk)
 
 **I. Stewart**, Y. Pinter, J. Eisenstein. 
 Sí o no, ¿què penses? Catalonian independence and linguistic identity on social media.
