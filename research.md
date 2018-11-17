@@ -9,7 +9,7 @@ permalink: /research/
 
 **I. Stewart**.
 Language and computers...and society!
-Guest lecture for LING 3813 (Language and Computers) at Georgia Tech.
+Guest lecture for [[LING 3813]](https://www.leliaglass.com/lgandcomputers) (Language and Computers) at Georgia Tech.
 [[slides]](https://docs.google.com/presentation/d/15c5DQRXbEEClq-8D3sYUgQuysIh_cWel64AFZo2EEVs/edit?usp=sharing)
 
 **I. Stewart**. 
