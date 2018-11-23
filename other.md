@@ -1,4 +1,8 @@
-# Other
+---
+layout: page
+title: Other
+permalink: /other/
+---
 
 ## Invited talks
 Language and computers...and society!
