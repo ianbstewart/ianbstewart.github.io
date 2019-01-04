@@ -13,6 +13,7 @@ EMNLP 2018.
 [[paper]](http://aclweb.org/anthology/D18-1467)
 [[code]](https://github.com/ianbstewart/nonstandard_word_dissemination)
 [[slides]](https://docs.google.com/presentation/d/1VLJp0uyBPFzHWupanfOjUr7E0j8UYHxqRSzHPqF7xGk)
+[[video]](https://vimeo.com/306120421)
 
 **I. Stewart**, Y. Pinter, J. Eisenstein. 
 Sí o no, ¿què penses? Catalonian independence and linguistic identity on social media.
