@@ -5,6 +5,14 @@ permalink: /research/
 ---
 # Publications and Presentations
 
+## 2019
+
+**I. Stewart**, René Flores, Tim Riffe, Ingmar Weber, Emilio Zagheni. 
+Rock, Rap, or Reggaeton?: Assessing Mexican Immigrants’Cultural Assimilation Using Facebook Data.
+WebConf 2019.
+[[paper]](#)
+[[poster]](#)
+
 ## 2018
 
 **I. Stewart**, J. Eisenstein.
