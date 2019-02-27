@@ -10,7 +10,7 @@ permalink: /research/
 **I. Stewart**, René Flores, Tim Riffe, Ingmar Weber, Emilio Zagheni. 
 Rock, Rap, or Reggaeton?: Assessing Mexican Immigrants’Cultural Assimilation Using Facebook Data.
 WebConf 2019.
-[[paper]](#)
+[[paper]](https://arxiv.org/pdf/1902.09453.pdf)
 [[poster]](#)
 
 ## 2018
