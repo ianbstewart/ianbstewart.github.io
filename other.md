@@ -5,6 +5,10 @@ permalink: /other/
 ---
 
 ## Invited talks
+Why do you talk like that? Minority languages and politics.
+Guest lecture for [LING 3801](https://drive.google.com/file/d/1UKgRv6uokSBBgBQo8lpGsLi1Yy4AZxJa/view) (Applications of Linguistics) at Georgia Tech.
+[[slides]](https://docs.google.com/presentation/d/1CppHkuTIsBeOI_P9bnqYFAS5QAqfzykY_irplIjlV30)
+
 Language and computers...and society!
 Guest lecture for [LING 3813](https://www.leliaglass.com/lgandcomputers) (Language and Computers) at Georgia Tech.
 [[slides]](https://docs.google.com/presentation/d/1YwlkAkOUhG-S48MMfaMG2SwrwDMHZKuk5QYTDP75OQ8)
