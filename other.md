@@ -4,7 +4,11 @@ title: Other
 permalink: /other/
 ---
 
-## Invited talks
+## Academic talks
+Measuring and modeling language change.
+Tutorial for [IC2S2](https://2019.ic2s2.org/tutorials/), presented with [Sandeep Soni](http://sandeepsoni.github.io/) using materials developed by [Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/).
+[[slide+code+data]](https://github.com/jacobeisenstein/language-change-tutorial)
+
 Why do you talk like that? Minority languages and politics.
 Guest lecture for [LING 3801](https://drive.google.com/file/d/1UKgRv6uokSBBgBQo8lpGsLi1Yy4AZxJa/view) (Applications of Linguistics) at Georgia Tech.
 [[slides]](https://docs.google.com/presentation/d/1CppHkuTIsBeOI_P9bnqYFAS5QAqfzykY_irplIjlV30)
