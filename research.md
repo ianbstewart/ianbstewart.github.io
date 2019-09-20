@@ -7,6 +7,11 @@ permalink: /research/
 
 ## 2019
 
+**I. Stewart**, Diyi Yang, Jacob Eisenstein.
+Characterizing Collective Attention via Descriptor Context in Public Discussions of Crisis Events.
+In submission.
+[[paper]](https://arxiv.org/pdf/1909.08784.pdf)
+
 **I. Stewart**, René Flores, Tim Riffe, Ingmar Weber, Emilio Zagheni. 
 Rock, Rap, or Reggaeton?: Assessing Mexican Immigrants’Cultural Assimilation Using Facebook Data.
 WebConf 2019.
