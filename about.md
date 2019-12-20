@@ -14,5 +14,6 @@ My work uses a combination of natural language processing and statistical method
 My prior work has investigated the [adoption of nonstandard words](https://www.aclweb.org/anthology/D18-1467), the expression of political identity through [language choice](https://www.aclweb.org/anthology/N18-2022), and recently, [measuring collective attention](https://arxiv.org/pdf/1909.08784.pdf) by tracking changes in the context of named entities.
 
 I am currently seeking a post-doctoral fellowship in computational social science beginning in fall 2020.
+See my research statement [here](docs/research_statement_general.pdf).
 
 You can reach me at istewart6 at gatech dot edu. In my free time, you'll find me making music and baking cookies.
