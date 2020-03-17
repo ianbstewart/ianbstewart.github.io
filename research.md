@@ -20,7 +20,7 @@ WebConf.
 
 **I. Stewart**, J. Eisenstein.
 Making "fetch" happen: The influence of social and linguistic context on nonstandard word growth and decline.
-2018. 
+2018.
 EMNLP. 
 [[paper]](http://aclweb.org/anthology/D18-1467)
 [[code]](https://github.com/ianbstewart/nonstandard_word_dissemination)
