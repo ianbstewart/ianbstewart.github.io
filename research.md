@@ -11,9 +11,16 @@ Characterizing Collective Attention via Descriptor Context in Public Discussions
 ICWSM.
 [[paper]](https://arxiv.org/pdf/1909.08784.pdf)
 
+**I. Stewart.**
+2019.
+How natural language processing should serve LGBTQ people.
+Queer in AI Workshop, NeurIPS.
+[[poster]](http://ianbstewart.github.io/docs/queer_nlp_poster.pdf)
+[[blog]](http://ianbstewart.github.io/queer_NLP/)
+
 **I. Stewart**, René Flores, Tim Riffe, Ingmar Weber, Emilio Zagheni. 
 2019.
-Rock, Rap, or Reggaeton?: Assessing Mexican Immigrants’Cultural Assimilation Using Facebook Data.
+Rock, Rap, or Reggaeton?: Assessing Mexican Immigrants' Cultural Assimilation Using Facebook Data.
 WebConf.
 [[paper]](https://arxiv.org/pdf/1902.09453.pdf)
 [[poster]](#)
