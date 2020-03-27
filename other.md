@@ -3,6 +3,15 @@ layout: page
 title: Other
 permalink: /other/
 ---
+## Invited talks
+
+Through the language glass: studying society at scale through social media. 
+2020.
+Computational Social Science Seminar, UMass Amherst.
+
+-.
+2020.
+Center for Social Media and Political Participation, NYU.
 
 ## Academic talks
 Measuring and modeling language change.
