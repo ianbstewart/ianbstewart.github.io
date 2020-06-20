@@ -13,7 +13,13 @@ Computational Social Science Seminar, UMass Amherst.
 2020.
 Center for Social Media and Political Participation, NYU.
 
+Is it social or linguistic? Examining internal factors in language change.
+2018.
+[New Methods in Computational Sociolinguistics workshop](http://www.lorentzcenter.nl/lc/web/2018/1094/info.php3?wsid=1094).
+[[slides]](https://docs.google.com/presentation/d/15c5DQRXbEEClq-8D3sYUgQuysIh_cWel64AFZo2EEVs)
+
 ## Academic talks
+
 Measuring and modeling language change.
 2019.
 Tutorial for [IC2S2](https://2019.ic2s2.org/tutorials/), presented with [Sandeep Soni](http://sandeepsoni.github.io/) using materials developed by [Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/).
@@ -29,12 +35,10 @@ Language and computers...and society!
 Guest lecture for [LING 3813](https://www.leliaglass.com/lgandcomputers) (Language and Computers) at Georgia Tech.
 [[slides]](https://docs.google.com/presentation/d/1YwlkAkOUhG-S48MMfaMG2SwrwDMHZKuk5QYTDP75OQ8)
 
-Is it social or linguistic? Examining internal factors in language change.
-2018.
-[New Methods in Computational Sociolinguistics workshop](http://www.lorentzcenter.nl/lc/web/2018/1094/info.php3?wsid=1094).
-[[slides]](https://docs.google.com/presentation/d/15c5DQRXbEEClq-8D3sYUgQuysIh_cWel64AFZo2EEVs)
-
 ## Press
+
+"Meet Ian Stewart." ML@GT interrogation. [blog](https://mlatgt.blog/2020/05/07/meet-mlgt-ian-stewart-encourages-people-to-make-mistakes-when-studying-natural-language-processing/)
+
 "Machine learning predictions." ML@GT video. [video](https://www.youtube.com/watch?v=EPlWY8B0IVk)
 
 "What makes a new word stick?" ML@GT blog. [post](https://mlatgt.blog/2018/09/26/what-makes-a-new-word-stick/)
