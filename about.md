@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I'm a Ph.D candidate in the [Interactive School of Computing](http://www.ic.gatech.edu/) (in the [Human-Centered Computing](http://www.hcc.cc.gatech.edu) program) at the Georgia Institute of the Technology. 
-My research is advised by [Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/) and explores how social factors can explain writing style choices in online discussions.
+My research is advised by [Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/) and explores how language variation reflects communication goals in online discussions.
 
 Language reflects and constructs society, and nowhere is this more obvious than the social spaces of the internet. 
 The fast speed of communication in online communities leads to frequent changes in communication style, often driven by the [turnover of members](https://ieeexplore.ieee.org/abstract/document/8258465) in communities.
