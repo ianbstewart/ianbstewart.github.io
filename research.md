@@ -25,7 +25,7 @@ Queer in AI Workshop, NeurIPS.
 Rock, Rap, or Reggaeton?: Assessing Mexican Immigrants' Cultural Assimilation Using Facebook Data.
 WebConf.
 [[paper]](https://arxiv.org/pdf/1902.09453.pdf)
-[[poster]](#)
+[[poster]](docs/WebConf_2019.pdf)
 
 **I. Stewart**, J. Eisenstein.
 2018.
