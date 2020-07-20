@@ -10,6 +10,7 @@ permalink: /research/
 Characterizing Collective Attention via Descriptor Context in Public Discussions of Crisis Events.
 ICWSM.
 [[paper]](https://aaai.org/ojs/index.php/ICWSM/article/view/7331/7185)
+[[slides]](https://docs.google.com/presentation/d/1oxYWxBXyhmI_rtxwTDb-02U0e3WLpg-Gd0faRPd9APE)
 [[video]](https://www.youtube.com/watch?v=GhGNJYmZjA0)
 
 **I. Stewart.**
