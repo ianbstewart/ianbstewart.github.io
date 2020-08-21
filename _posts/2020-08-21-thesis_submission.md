@@ -17,6 +17,7 @@ It's kind of a pick-your-own-adventure, with a lot of emails.
 All the thesis submission forms are [here](https://grad.gatech.edu/theses-dissertations-forms) and there's a checklist [here](https://grad.gatech.edu/sites/default/files/documents/thesis_checklist_spring_2020.pdf), but there is no context for what order everything happens, who needs what, and what form needs to be prioritized over others.
 
 Here is a quick summary of how I handled the administrative process of submitting the thesis.
+One of my favorite pieces of advice is "start with the end in mind," which I tried to do here.
 Some of the deadlines may seem tight, which reflects my own tight schedule and not necessarily the best use of time.
 If you can afford more buffer time between steps (e.g. more revision time) then err on the side of more time, because you only get to write one thesis.
 My advisors were *extremely* accommodating in terms of scheduling time to meet with me for feedback and time to read multiple drafts of the thesis.
