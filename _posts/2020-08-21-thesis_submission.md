@@ -26,14 +26,14 @@ Also note that **this timeline applies only to Georgia Tech**: other schools def
 2. T = document submission deadline OR enrollment waiver deadline (info [here](http://www.grad.gatech.edu/theses-dissertations-deadlines))
 
 - D - 10 weeks (longer if D happens during busy time, end of semester): schedule defense with committee
-- D - (4+R weeks): complete thesis document and send to advisor (R = revision cycles required, budget 1 week per cycle if your advisor is a fast reader)
+- D - (4+(R\*2) weeks): complete thesis document and send to advisor (R = revision cycles required, budget 1 week per cycle if your advisor is a fast reader)
 - D - 4 weeks: complete thesis document (minus acknowledgments), send to committee
 - D - 2 weeks: send defense announcement email
 - D - 2 days: (optional) send reminder
 - D: defend thesis (DO NOT START EDITS THE SAME NIGHT, you need time to process feedback)
 - D + 1 day: send [thesis approval form](https://app.docusign.com/templates/details/1efaa422-9829-4ee1-8bd3-ba8544bf304b) to committee and admins, badger them until they sign it; they might choose to not sign it until edits are finished/documented
 - D + 2/3 days: talk to advisor about edits, figure out how to address committee's feedback most efficiently (e.g. where extra content should go in the thesis, which members' feedback can be combined)
-- T - (R weeks): complete committee edits and send to advisor with edits highlighted for easy reading (R = revision cycles, assume same budget from before)
+- T - ((R\*2) days): complete committee edits and send to advisor with edits highlighted for easy reading (R = revision cycles, assume shorter budget than before depending on how manageable the edits are)
 - T - 1 week: if not enrolled during graduation semester, submit [enrollment waiver](https://app.docusign.com/templates/details/a8505158-9917-42f3-a985-8c11f851e5b6); needs a bunch of admin signatures that may take a while
 - T - 1 week: (optional) submit [request to withhold thesis](https://app.docusign.com/templates/details/c7a47989-2168-4a5c-8ffd-e747a06cf159), in case of unpublished work
 - T-4 days: send document to [thesis office](thesis@grad.gatech.edu) for format check (typically only takes a few hours but may take up to 2 days)
