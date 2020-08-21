@@ -22,8 +22,8 @@ If you can afford more buffer time between steps (e.g. more revision time) then 
 My advisors were *extremely* accommodating in terms of scheduling time to meet with me for feedback and time to read multiple drafts of the thesis.
 Also note that **this timeline applies only to Georgia Tech**: other schools definitely have different requirements and deadlines to meet.
 
-- D = defense date
-- T = document submission deadline OR enrollment waiver deadline (info [here](http://www.grad.gatech.edu/theses-dissertations-deadlines))
+1. D = defense date
+2. T = document submission deadline OR enrollment waiver deadline (info [here](http://www.grad.gatech.edu/theses-dissertations-deadlines))
 
 - D - 10 weeks (longer if D happens during busy time, end of semester): schedule defense with committee
 - D - (4+R weeks): complete thesis document and send to advisor (R = revision cycles required, budget 1 week per cycle if your advisor is a fast reader)
