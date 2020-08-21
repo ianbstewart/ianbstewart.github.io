@@ -14,7 +14,7 @@ You just have to do it.
 I'm better at writing about concrete things.
 The administrative parts of the thesis were also difficult, especially because there is no centralized timeline to connect the different parts of the process.
 It's kind of a pick-your-own-adventure, with a lot of emails.
-All the thesis submission forms are [here](https://grad.gatech.edu/theses-dissertations-forms) but there is no context for what order everything happens, who needs what, and what form needs to be prioritized over others.
+All the thesis submission forms are [here](https://grad.gatech.edu/theses-dissertations-forms) and there's a checklist [here](https://grad.gatech.edu/sites/default/files/documents/thesis_checklist_spring_2020.pdf), but there is no context for what order everything happens, who needs what, and what form needs to be prioritized over others.
 
 Here is a quick summary of how I handled the administrative process of submitting the thesis.
 Some of the deadlines may seem tight, which reflects my own tight schedule and not necessarily the best use of time.
