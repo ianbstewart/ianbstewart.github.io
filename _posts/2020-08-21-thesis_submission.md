@@ -33,7 +33,7 @@ Also note that **this timeline applies only to Georgia Tech**: other schools def
 - D - 2 days: (optional) send reminder
 - D: defend thesis (DO NOT START EDITS THE SAME NIGHT, you need time to process feedback)
 - D + 1 day: send [thesis approval form](https://app.docusign.com/templates/details/1efaa422-9829-4ee1-8bd3-ba8544bf304b) to committee and admins, badger them until they sign it; they might choose to not sign it until edits are finished/documented
-- D + 2/3 days: talk to advisor about edits, figure out how to address committee's feedback most efficiently (e.g. where extra content should go in the thesis, which members' feedback can be combined)
+- D + X days: talk to advisor about edits, figure out how to address committee's feedback most efficiently (e.g. where extra content should go in the thesis, which members' feedback can be combined)
 - T - ((R\*2) days): complete committee edits and send to advisor with edits highlighted for easy reading (R = revision cycles, assume shorter budget than before depending on how manageable the edits are)
 - T - 1 week: if not enrolled during graduation semester, submit [enrollment waiver](https://app.docusign.com/templates/details/a8505158-9917-42f3-a985-8c11f851e5b6); needs a bunch of admin signatures that may take a while
 - T - 1 week: (optional) submit [request to withhold thesis](https://app.docusign.com/templates/details/c7a47989-2168-4a5c-8ffd-e747a06cf159), in case of unpublished work
