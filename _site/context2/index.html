@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>What does "context" mean? Part two – Ian Stewart – Language Geek. Data Freak.</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="As I mentioned last time, my current work is concerned with how linguistic and social context influence the likelihood of a new word’s adoption. Last time I talked about semantic context as the popularity of a word’s “nearest neighbors” and how that might play a role in word adoption.
+
+" />
+    <meta property="og:description" content="As I mentioned last time, my current work is concerned with how linguistic and social context influence the likelihood of a new word’s adoption. Last time I talked about semantic context as the popularity of a word’s “nearest neighbors” and how that might play a role in word adoption.
+
+" />
+    
+    <meta name="author" content="Ian Stewart" />
+
+    
+    <meta property="og:title" content="What does "context" mean? Part two" />
+    <meta property="twitter:title" content="What does "context" mean? Part two" />
+    
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Ian Stewart - Language Geek. Data Freak." href="/feed.xml" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/" class="site-avatar"><img src="https://avatars2.githubusercontent.com/u/1302835" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="/">Ian Stewart</a></h1>
+            <p class="site-description">Language Geek. Data Freak.</p>
+          </div>
+
+          <nav>
+	    <a href="/about">About</a>
+            <a href="/">Blog</a>
+	    <a href="/research">Research</a>
+	    <a href="/docs/istewart_cv.pdf">CV</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      <article class="post">
+  <h1>What does "context" mean? Part two</h1>
+
+  <div class="entry">
+    <p>As I mentioned last time, my current work is concerned with how linguistic and social context influence the likelihood of a new word’s adoption. Last time I talked about semantic context as the popularity of a word’s “nearest neighbors” and how that might play a role in word adoption.</p>
+
+<p>The short answer to that question is that the “nearest neighbor” definition of context doesn’t play as big a role as you might think. For instance, if you use neighbor popularity to predict whether a word will grow or decline over time, the accuracy isn’t high enough to justify its use as a predictor. Using neighbor popularity on its own without respect to time, we find that it can differentiate different kinds of words, such as respellings like “ur” which has significantly more popular neighbor “your.” As a side finding, I also figured out that neighbor distance (in vector space) is a pretty bad predictor of polysemy which contradicts <a href="https://arxiv.org/pdf/1605.09096.pdf">some previous work</a>. But neighbor popularity does not seem to influence the likelihood of a word’s adoption, which to me seems like an interesting null result but not enough to build any hypotheses from.</p>
+
+<p>So what’s another way to think about context? Without resorting to machine learning, we can make context even simpler and consider a word’s context to be the unique number of fixed-word phrases in which it occurs. In the sentence “this is cool af !”, the word “af” occurs in 2 unique bigram contexts: [“cool” “af”] and [“af” “!”]. This seems like a foolproof measure but it turns out to be highly correlated with frequency, i.e. words that have a high frequency also tend to occur in a high number of contexts, as you can see in the plot below (thank you, <a href="https://en.wikipedia.org/wiki/Heaps%27_law">Heap’s Law</a>).</p>
+
+<center><img src="../docs/blog_images/frequency_unique_contexts.png" width="500px" /></center>
+
+<p>How do we find the words with an especially high or low number of contexts? One way to get at this extra info is to establish an “expected” number of contexts and then compute the difference between the expected and actual number of contexts, i.e. the residual. If we fit a function between the independent variable (frequency) and dependent variable (unique contexts), then we can use the residual between the function’s predicted value and the actual dependent variable. This can help separate the words that occur in an unusually high number of contexts, such as “aka”, from a word with similar frequency that occurs in an unusually low number of contexts, such as “yikes.” You can see this in the plot below.</p>
+
+<center><img src="../docs/blog_images/frequency_context_diversity.png" width="500px" /></center>
+
+<p>Cool! Does this measure shed any light on different word categories? Take different parts of speech, for example. An adverb like “af” would have a lower range of contexts (e.g. only post-adjective) compared with an exclamation such as “yikes” that has fewer syntactic constraints. After tagging the corpus for POS tags using <a href="https://github.com/brendano/ark-tweet-nlp">this handy program</a>, we found that there was a considerable degree of variation in context diversity across part of speech tags. Compare, for example, the higher context diversity of exclamations (marked “!”) compared to the adverbs (marked “R”) in the plot below, where C2 indicates bigram context diversity and C3 indicates trigram context diversity.</p>
+
+<center><img src="../docs/blog_images/pos_context_diversity_distribution.png" width="700px" /></center>
+
+<p>More importantly to our study: does context diversity help us determine whether a lexical innovation will succeed or not? The short answer is more often than not, yes. After picking out a set of lexical innovations that grew and innovations that declined in frequency over the course of the observed timespan (2013-2016), we found that context diversity was the most consistently strong factor in separating the growth words from the decline words, after matching them on frequency. You can see the separation in the plot below, where the successful (growing) innovations “fking,” “af”, and “aka” have a higher initial context diversity than the unsuccessful (declining) innovations “thang”, “protip”, and “heh.”</p>
+
+<center><img src="../docs/blog_images/frequency_context_diversity_innovation_examples.png" width="700px" /></center>
+
+<p>Why might this be the case? One hypothesis is that innovations that are “on the way in” (such as “af”) are more lexically flexible than innovations that have already seen their prime and are on the way out (e.g. “protip”), which may result in being used in certain fixed expressions rather than flexible expressions (i.e. fewer contexts). This falls in line with Metcalf’s FUDGE model (Metcalf 2004) that proposes a “generative” quality for innovations that allows them to extend to a wide range of contexts.</p>
+
+<p>The ovearching goal of this project is to compare linguistic context with social context with respect to the adoption of lexical innovations. Our preliminary tests have shown that linguistic context diversity, as measured with the residual-calculation method, is a significantly stronger predictor of success than social context. To me, this suggests that studies that examine innovations but only look at social context are missing out on some important factors. It’s particularly interesting in light of the current focus on social networks as a explanatory mechanism for the adoption of trends like linguistic innovations (e.g. <a href="https://arxiv.org/pdf/1609.02075.pdf">this study</a> by my friend Sandeep).</p>
+
+<p>Shouldn’t innovation studies, like social network diffusion research, also consider linguistic form and context in addition to social factors? And thinking more broadly, can we abstract this idea to apply to non-linguistic innovations? For example, how do we quantify the diversity of contexts to which a meme applies (quantifying the idea of <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/21Rintel-2013-CrisisMemes-AJPC.pdf">templatability</a>)? Not sure there’s an easy answer, but something worth pondering.</p>
+
+<p>In so many words, that’s the second definition of linguistic context: the relative number of unique bigram and trigram contexts in which a word appears. This definition might seem basic and not terribly sophisticated, but it points to some unexpected trends. If you can find a study that uses this metric or a similar idea, let me know! I haven’t been able to find anything outside of passing mentions in corpus linguistics and machine translation, which aren’t especially helpful.</p>
+
+<p>We’re currently writing up these results into a paper submission, so hopefully this publication will be out soon (coming to an open-access journal near you)!</p>
+
+  </div>
+
+  <div class="date">
+    Written on June 11, 2017
+  </div>
+
+  
+</article>
+
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          
+<a href="mailto:alethioguy@gmail.com"><i class="svg-icon email"></i></a>
+
+
+<a href="https://github.com/ianbstewart"><i class="svg-icon github"></i></a>
+
+
+
+
+<a href="https://www.twitter.com/alethioguy"><i class="svg-icon twitter"></i></a>
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+  </body>
+</html>

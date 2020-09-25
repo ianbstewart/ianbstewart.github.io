@@ -5,23 +5,33 @@ permalink: /other/
 ---
 ## Invited talks
 
+Through the looking glass: what NLP can reveal about sociolinguistic variation.
+September 2020.
+GT NLP Seminar.
+[[slides]](docs/NLP_seminar_talk_9_25_2020.pdf)
+
 Through the language glass: studying society at scale through social media. 
-2020.
+February 2020.
 Computational Social Science Seminar, UMass Amherst.
 
 -.
-2020.
+January 2020.
 Center for Social Media and Political Participation, NYU.
 
 Is it social or linguistic? Examining internal factors in language change.
-2018.
+November 2018.
 [New Methods in Computational Sociolinguistics workshop](http://www.lorentzcenter.nl/lc/web/2018/1094/info.php3?wsid=1094).
 [[slides]](https://docs.google.com/presentation/d/15c5DQRXbEEClq-8D3sYUgQuysIh_cWel64AFZo2EEVs)
 
 ## Academic talks
 
+Tuiteamos o pongamos un tuit? Comparing social factors in loanword integration on social media.
+September 2020.
+Guest lecture for Spanish Sociolinguistics course at University of Georgia.
+[[slides]](docs/loanword_integration_9_2020.pdf)
+
 Measuring and modeling language change.
-2019.
+July 2019.
 Tutorial for [IC2S2](https://2019.ic2s2.org/tutorials/), presented with [Sandeep Soni](http://sandeepsoni.github.io/) using materials developed by [Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/).
 [[slide+code+data]](https://github.com/jacobeisenstein/language-change-tutorial)
 
