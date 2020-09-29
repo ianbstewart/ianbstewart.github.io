@@ -9,7 +9,7 @@ Through the looking glass: what NLP can reveal about sociolinguistic variation.
 September 2020.
 GT NLP Seminar.
 [[slides]](docs/NLP_seminar_talk_9_25_2020.pdf)
-[[vide]](https://primetime.bluejeans.com/a2m/events/playback/05a8a8b6-380a-42a0-9432-3a79480a209e)
+[[video]](https://www.youtube.com/watch?v=4slpLFWToK8)
 
 Through the language glass: studying society at scale through social media. 
 February 2020.
