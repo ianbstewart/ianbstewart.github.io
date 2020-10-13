@@ -98,4 +98,4 @@ Portland, Oregon.
 2014.
 Now we stronger than ever: African American syntax on Twitter.
 EACL.
-[[paper]](http://www.aclweb.org/anthology/E/E14/E14-3.pdf#page=41)
+[[paper]](https://www.aclweb.org/anthology/E14-3004.pdf)
