@@ -6,6 +6,12 @@ permalink: /research/
 # Publications and Presentations
 
 **I. Stewart**, Diyi Yang, Jacob Eisenstein.
+2021.
+Tuiteamos o pongamos un tuit? Investigating the social constraints of loanword integration in Spanish social media.
+SCiL.
+Preprint forthcoming.
+
+**I. Stewart**, Diyi Yang, Jacob Eisenstein.
 2020.
 Characterizing Collective Attention via Descriptor Context in Public Discussions of Crisis Events.
 ICWSM.

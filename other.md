@@ -26,6 +26,11 @@ November 2018.
 
 ## Academic talks
 
+Exploratory text analysis for computational social science.
+December 2020.
+Tutorial for [CORE Congress](http://www.core.ipn.mx/).
+[[slides+code]](https://github.com/ianbstewart/CORE_tutorial_2020)
+
 Tuiteamos o pongamos un tuit? Comparing social factors in loanword integration on social media.
 September 2020.
 Guest lecture for Spanish Sociolinguistics course at University of Georgia.
