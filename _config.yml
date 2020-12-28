@@ -1,75 +1,84 @@
-#
-# This file contains configuration flags to customize your site
-#
+# Site
+title:              Ian Stewart
+bio:                'I am a postdoctoral research fellow at University of Michigan who is interested in building NLP systems that are more socially aware and helpful for writers.'
+reading_time:       false
+words_per_minute:   200
+# logo:               'assets/img/logo.png'
+logo:               'docs/istewart.jpg'
+background:         'assets/img/placeholder-big.jpg'
+# background:         'docs/languages_people.jpg' # good language/social picture
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_US
+# url:                https://taylantatli.github.io/Moon/ # replace once all files/assets are in place
+url:                ianbstewart.github.io
 
-# Name of your site (displayed in the header)
-name: Ian Stewart
-
-# Short bio or description (displayed in the header)
-description: Language Geek. Data Freak.
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://imgur.com/sMsXoYj.png
-
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  email: alethioguy@gmail.com
-  github: ianbstewart
-  twitter: alethioguy
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url:
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
-permalink: /:title/
-
-# The release of Jekyll Now that you're using
-version: v1.2.0
-
-# Jekyll 3 now only supports Kramdown for Markdown
+# Jekyll
+# permalink:          /:title/
+permalink:          /:categories/:year/:month/:day/:title/
+markdown:           kramdown
+highlighter:        rouge
 kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
-
-# Set the Sass partials directory, as we're using @imports
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  sass_dir:         _sass
+  style:            compressed
+# post-specific format
+collections:
+  my_collection:
+    output: true
+    permalink: /:collection/:name
 
-# Use the following plug-ins
+# Comments
+# disqus_shortname:   taylantatli
+
+# Social
+# if you don't have any of social below, comment the line.
+#google:
+  #plus:            #username
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+email:              ianbstew@umich.edu
+twitter:            alethioguy
+# facebook:           username
+github-url:         ianbstewart
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:          username
+#xing:              username
+# instagram:          username
+#lastfm:            username
+#tumblr:            username
+#medium:            '@username'
+#pinterest:         username
+#foursquare:        username
+# steam:              username
+#dribbble:          username
+#youtube:           username
+#youtube-channel:   channel
+#soundcloud:        username
+#weibo:             username
+#flickr:            username
+#codepen:           username
+#keybase:           username
+#xmpp:              username@server.com
+#hackernews:        username
+
+# Gems
 gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
 
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]

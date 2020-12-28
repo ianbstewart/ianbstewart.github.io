@@ -1,0 +1,52 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<head>
+    {% include head.html %}
+</head>
+<body>
+    {% include nav.html %}
+    <!-- Header -->
+    <header class="header flex" role="banner">
+        <div class="container animated fadeIn">
+            <div class="row">
+                <h3 class="title">
+                         {% include page_menu.html %}
+                    </h3>
+                    <a href="{{ site.url }}">
+                        <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
+                    </a>
+                    <h3 class="title">
+                        <a class="zoombtn" href="{{ site.url }}">
+                        	<p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
+			            </a>
+                    </h3>
+                    <hr class="hr-line">
+                    <h3 class="title">
+                        <a href="{{ site.url }}">
+                        	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
+			            </a>
+                    </h3>
+                <!-- news -->
+                 <hr class="hr-line">
+                 <h3><b>News</b></h3>
+                <ul>
+                    <li><b>10.12.2020</b>: I presented a tutorial at CORE Congress about exploratory text analysis for computational social science. Materials <a href="https://github.com/ianbstewart/CORE_tutorial_2020">here</a>. 
+                    <li><b>04.12.2020</b>: Paper accepted at <a href="https://blogs.umass.edu/scil/scil-2021-call-for-papers/">SCiL 2021</a>! We investigated the integration of English loanwords into Spanish (e.g. the verb "tuitear" for "to tweet"). Preprint coming soon. 
+                    <li><b>01.09.2020</b>: I have started work as a post-doctoral fellow at University of Michigan, working with the <a href="https://lit.eecs.umich.edu/">LIT Lab</a> on socially-oriented NLP.
+                </ul>
+                 <hr class="hr-line">
+                 {% include social-links.html %}
+                 Site template from <a href="https://taylantatli.github.io/Moon/">Moon</a>.
+                 <br></br>
+            </div>
+        </div>
+    </header>
+    {% include scripts.html %}
+</body>
+</html>
