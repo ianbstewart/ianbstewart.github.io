@@ -9,7 +9,9 @@ permalink: /research/
 2021.
 Tuiteamos o pongamos un tuit? Investigating the social constraints of loanword integration in Spanish social media.
 SCiL.
-Preprint forthcoming.
+[[paper]](https://scholarworks.umass.edu/scil/vol4/iss1/27/)
+[[slides]](https://docs.google.com/presentation/d/1yPzwxKc_bcQvmVEO2jXfozJNcxVq6ZOpvJbesfwxxqs/)
+[[code]](https://github.com/ianbstewart/SCiL_2021_loanword)
 
 **I. Stewart**, Diyi Yang, Jacob Eisenstein.
 2020.
@@ -18,6 +20,7 @@ ICWSM.
 [[paper]](https://aaai.org/ojs/index.php/ICWSM/article/view/7331/7185)
 [[slides]](https://docs.google.com/presentation/d/1oxYWxBXyhmI_rtxwTDb-02U0e3WLpg-Gd0faRPd9APE)
 [[video]](https://www.youtube.com/watch?v=GhGNJYmZjA0)
+[[code]](https://github.com/ianbstewart/collective_attention)
 
 **I. Stewart.**
 2019.
@@ -32,25 +35,25 @@ Rock, Rap, or Reggaeton?: Assessing Mexican Immigrants' Cultural Assimilation Us
 WebConf.
 [[paper]](https://arxiv.org/pdf/1902.09453.pdf)
 [[poster]](docs/WebConf_2019.pdf)
+[[code]](https://github.com/ianbstewart/immigrant_assimilation)
 
 **I. Stewart**, J. Eisenstein.
 2018.
 Making "fetch" happen: The influence of social and linguistic context on nonstandard word growth and decline.
 EMNLP. 
 [[paper]](http://aclweb.org/anthology/D18-1467)
-[[code]](https://github.com/ianbstewart/nonstandard_word_dissemination)
 [[slides]](https://docs.google.com/presentation/d/1VLJp0uyBPFzHWupanfOjUr7E0j8UYHxqRSzHPqF7xGk)
 [[video]](https://vimeo.com/306120421)
+[[code]](https://github.com/ianbstewart/nonstandard_word_dissemination)
 
 **I. Stewart**, Y. Pinter, J. Eisenstein. 
 2018.
 Sí o no, ¿què penses? Catalonian independence and linguistic identity on social media.
 NAACL.
 [[paper]](http://aclweb.org/anthology/N18-2022)
+[[slides]](https://drive.google.com/open?id=1L4wNoTXDCysaQ65QYUJ_Y7Za8rULAdy_xrnjqZbQkek)
+[[video]](https://vimeo.com/channels/naacl2018/276426716)
 [[code]](https://github.com/ianbstewart/catalan)
-[[slides (NAACL)]](https://drive.google.com/open?id=1L4wNoTXDCysaQ65QYUJ_Y7Za8rULAdy_xrnjqZbQkek)
-[[video (NAACL)]](https://vimeo.com/channels/naacl2018/276426716)
-[[slides (AACL)]](https://docs.google.com/presentation/d/19Bi-LNP8BwZ5l3uFUiJQWpT-Xk9bXoelEmtidgUEEq8/edit?usp=sharing)
 
 **I. Stewart**, S. Chancellor, M. De Choudhury, J. Eisenstein. 
 2017.
@@ -77,8 +80,7 @@ A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue.
 Measuring, Predicting and Visualizing Short-Term Change in Word Representation and Usage in VKontakte Social Network.
 ICWSM.
 [[poster]](../docs/ICWSM_2017_poster.pdf)
-[[short]](../docs/ICWSM_2017_short.pdf)
-[[full]](https://arxiv.org/abs/1703.07012)
+[[paper]](https://arxiv.org/abs/1703.07012)
 
 **I. Stewart**, J. Eisenstein. 
 2017.
