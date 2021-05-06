@@ -5,6 +5,12 @@ permalink: /research/
 ---
 # Publications and Presentations
 
+MeiXing Dong, Xueming Xu, Yiwei Zhang, **I. Stewart**, Rada Mihalcea.
+2021.
+Room to Grow: Understanding Personal Characteristics Behind Self Improvement Using Social Media.
+SocialNLP Workshop.
+[[paper]](#)
+
 **I. Stewart**, Diyi Yang, Jacob Eisenstein.
 2021.
 Tuiteamos o pongamos un tuit? Investigating the social constraints of loanword integration in Spanish social media.
