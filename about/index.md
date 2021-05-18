@@ -3,7 +3,7 @@ layout: page
 title: About
 comments: false
 ---
-I am a [MIDAS](midas.umich.edu/) Fellow at the University of Michigan, where I work with the [LIT Lab](https://lit.eecs.umich.edu/) to develop NLP systems that can adapt to different social situations and provide better feedback to writers.
+I am a [MIDAS](http://midas.umich.edu/) Fellow at the University of Michigan, where I work with the [LIT Lab](https://lit.eecs.umich.edu/) to develop NLP systems that can adapt to different social situations and provide better feedback to writers.
 
 I recently earned my PhD from the [Interactive School of Computing](http://www.ic.gatech.edu/) (in the [Human-Centered Computing](http://www.hcc.cc.gatech.edu) program) at the Georgia Institute of the Technology. 
 During my PhD, my research explored how sociolinguistic variation reflects communication goals in online discussions, which I summarize below.
