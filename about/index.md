@@ -3,9 +3,10 @@ layout: page
 title: About
 comments: false
 ---
+I am a [MIDAS](midas.umich.edu/) Fellow at the University of Michigan, where I work with the [LIT Lab](https://lit.eecs.umich.edu/) to develop NLP systems that can adapt to different social situations and provide better feedback to writers.
 
-I'm a recent PhD graduate from the [Interactive School of Computing](http://www.ic.gatech.edu/) (in the [Human-Centered Computing](http://www.hcc.cc.gatech.edu) program) at the Georgia Institute of the Technology. 
-I was advised by [Jacob Eisenstein](https://jacobeisenstein.github.io/) and [Diyi Yang](https://www.cc.gatech.edu/~dyang888/), and my research explored how language variation reflects communication goals in online discussions.
+I recently earned my PhD from the [Interactive School of Computing](http://www.ic.gatech.edu/) (in the [Human-Centered Computing](http://www.hcc.cc.gatech.edu) program) at the Georgia Institute of the Technology. 
+During my PhD, my research explored how sociolinguistic variation reflects communication goals in online discussions, which I summarize below.
 
 Language reflects and constructs society, and nowhere is this more obvious than the social spaces of the internet. 
 The fast speed of communication in online communities leads to frequent changes in communication style.
