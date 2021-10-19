@@ -5,11 +5,16 @@ permalink: /research/
 ---
 # Publications and Presentations
 
+**I. Stewart**, Rada Mihalcea.
+How Well Do You Know Your Audience? Reader-aware Question Generation.
+In preparation.
+[[paper]](http://arxiv.org/abs/2110.08445)
+
 MeiXing Dong, Xueming Xu, Yiwei Zhang, **I. Stewart**, Rada Mihalcea.
 2021.
 Room to Grow: Understanding Personal Characteristics Behind Self Improvement Using Social Media.
 SocialNLP Workshop.
-[[paper]](#)
+[[paper]](https://aclanthology.org/2021.socialnlp-1.13.pdf)
 
 **I. Stewart**, Diyi Yang, Jacob Eisenstein.
 2021.
