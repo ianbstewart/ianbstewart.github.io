@@ -5,8 +5,8 @@ reading_time:       false
 words_per_minute:   200
 # logo:               'assets/img/logo.png'
 logo:               'docs/istewart.jpg'
-background:         'assets/img/placeholder-big.jpg'
-# background:         'docs/languages_people.jpg' # good language/social picture
+#background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/social-network.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 # url:                https://taylantatli.github.io/Moon/ # replace once all files/assets are in place
