@@ -4,6 +4,9 @@ title: About
 comments: false
 ---
 I am a [MIDAS](http://midas.umich.edu/) Fellow at the University of Michigan, where I work with the [LIT Lab](https://lit.eecs.umich.edu/) to develop NLP systems that can adapt to different social situations and provide better feedback to writers.
+**As of Fall 2021** I am on the job market! 
+I am interested in positions in government, non-profit, and industry labs that have a focus on technology for public good.
+
 
 My current research focuses on (1) social ramifications of writing interventions and (2) assessing social bias in text.
 For (1), I am currently interested in *audience-oriented* systems that can preempt possible information gaps among the readers of a particular piece of writing, e.g. missing information in advice-seeking posts online. 
