@@ -16,6 +16,6 @@ For (2), I am working on several projects related to understanding bias in NLP s
  
 In 2020 I earned my PhD from the [Interactive School of Computing](http://www.ic.gatech.edu/) (in the [Human-Centered Computing](http://www.hcc.cc.gatech.edu) program) at the Georgia Institute of the Technology. 
 During my PhD, my research explored how sociolinguistic variation reflects communication goals in online discussions, including: (1) how people choose their language to address a partly-known audience; (2) how people adopt new words online; and (3) how social attitudes can explain language choices among multilingual people.
-You can read the full thesis [here](../docs/thesis.pdf). 
+You can read the full thesis [here](https://smartech.gatech.edu/handle/1853/65976). 
 
 You can reach me at ianbstew at umich dot edu. In my free time, you'll find me making music and baking cookies.
