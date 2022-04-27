@@ -1,9 +1,14 @@
 ---
 layout: page
 title: Other
-permalink: /other/
+comments: false
 ---
+
 ## Invited talks
+
+People first: toward socially-aware NLP-powered writing tools.
+January 2022.
+Pacific Northwest National Laboratory.
 
 Through the looking glass: what NLP can reveal about sociolinguistic variation.
 September 2020.
