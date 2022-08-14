@@ -6,6 +6,10 @@ comments: false
 
 ## Invited talks
 
+Linguistic Bias as a Window into Social Attitudes.
+June 2022.
+SocialNLP Workshop (at NAACL).
+
 People first: toward socially-aware NLP-powered writing tools.
 January 2022.
 Pacific Northwest National Laboratory.
