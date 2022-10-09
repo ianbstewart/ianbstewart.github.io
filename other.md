@@ -6,6 +6,10 @@ comments: false
 
 ## Invited talks
 
+Linguistic bias as a window into social attitudes.
+July 2022.
+SocialNLP @ NAACL 2022.
+
 People first: toward socially-aware NLP-powered writing tools.
 January 2022.
 Pacific Northwest National Laboratory.
@@ -65,3 +69,7 @@ Guest lecture for [LING 3813](https://www.leliaglass.com/lgandcomputers) (Langua
 "What makes a new word stick?" ML@GT blog. [post](https://mlatgt.blog/2018/09/26/what-makes-a-new-word-stick/)
 
 "Coincidences and Surprising Connections." Talk the Talk podcast. [audio](http://talkthetalkpodcast.com/344-coincidences-and-surprising-connections/) (starts at 11:30)
+
+## Service
+
+NLP+CSS 201: Beyond the Basics (w/ [Katie Keith](https://kakeith.github.io/). [site](https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/); [YouTube](https://www.youtube.com/channel/UCcFcF9DkanjaK3HEk7bsd-A) 
