@@ -1,6 +1,6 @@
 # Site
 title:              Ian Stewart
-bio:                'I am a postdoctoral research fellow at University of Michigan who is interested in building NLP systems that are more socially aware and helpful for writers.'
+bio:                'I am a researcher in machine learning, working as a scientist at the Pacific Northwest National Laboratory.'
 reading_time:       false
 words_per_minute:   200
 # logo:               'assets/img/logo.png'
@@ -45,7 +45,7 @@ collections:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              ianbstew@umich.edu
+email:              ibs@dartmouth.edu
 twitter:            alethioguy
 # facebook:           username
 github-url:         ianbstewart
