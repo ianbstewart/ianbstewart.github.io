@@ -4,7 +4,6 @@ title: "Understanding the Role of Questions in Mental Health Support-Seeking For
 project: true
 year: 2023
 authors: "Aylin Gunal, <b>Ian Stewart</b>, Verónica Pérez-Rosas, Rada Mihalcea" 
-venue: "THE 7th INTERNATIONAL WORKSHOP ON HEALTH INTELLIGENCE" 
+venue: "Workshop on Health Intelligence (AAAI)" 
 link: ""
-code_link: ""
 ---
