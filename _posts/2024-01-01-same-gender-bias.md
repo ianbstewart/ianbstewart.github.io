@@ -6,5 +6,5 @@ year: 2024
 authors: "<b>Ian Stewart</b>, Rada Mihalcea"
 venue: "Workshop on Gender Bias in NLP (ACL 2024)" 
 link: "https://arxiv.org/abs/2401.04972"
-code_link: ""
+code_link: "https://github.com/ianbstewart/multilingual-same-gender-bias/"
 ---
